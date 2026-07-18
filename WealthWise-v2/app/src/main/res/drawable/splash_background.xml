@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_ink_navy" />
+    <item android:gravity="center" android:width="96dp" android:height="96dp">
+        <shape android:shape="ring"
+            android:innerRadiusRatio="2.6"
+            android:thicknessRatio="10"
+            android:useLevel="false">
+            <solid android:color="@color/splash_jade" />
+        </shape>
+    </item>
+</layer-list>

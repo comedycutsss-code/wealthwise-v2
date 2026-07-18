@@ -1,0 +1,17 @@
+[
+  {"sender": "VM-HDFCBK", "body": "Rs.45000.00 credited to A/c XX4521 on 01-07-26 by NEFT. Salary - Infotech Pvt Ltd. Avl Bal Rs.68540.00", "timestampMillis": 1751328600000},
+  {"sender": "AD-ICICIB", "body": "Rs.850.00 debited from A/c XX7788 on 02-07-26 to SWIGGY via UPI. Ref No 302981123456. Avl Bal Rs.67690.00", "timestampMillis": 1751415000000},
+  {"sender": "JD-SBIINB", "body": "Dear Customer, Rs.12000.00 debited towards Home Loan EMI from A/c XX9021 on 05-07-26. Outstanding Rs.1845000.00", "timestampMillis": 1751673000000},
+  {"sender": "VM-AXISBK", "body": "Your Axis Bank Credit Card XX3345 bill of Rs.18450.00 is generated. Minimum due Rs.950.00. Due date 20-07-26", "timestampMillis": 1751932200000},
+  {"sender": "AX-GROWWS", "body": "SIP of Rs.5000.00 in Parag Parikh Flexi Cap Fund processed. 32.145 units allotted at NAV 155.62. Folio 88213456", "timestampMillis": 1752018600000},
+  {"sender": "VD-ZERODHA", "body": "Order executed: BUY 10 qty RELIANCE at Rs.2945.50. Brokerage Rs.20.00. Order ID Z98213", "timestampMillis": 1752105000000},
+  {"sender": "AD-HDFCBK", "body": "Rs.3200.00 debited from A/c XX4521 on 08-07-26 towards Electricity Bill payment via UPI. Avl Bal Rs.64490.00", "timestampMillis": 1752191400000},
+  {"sender": "VM-LICIND", "body": "Premium of Rs.15000.00 due on 25-07-26 for Policy No 998877665. Pay via LIC portal or branch.", "timestampMillis": 1752277800000},
+  {"sender": "JD-SBICRD", "body": "Rs.2500.00 spent on your SBI Credit Card XX7712 at AMAZON on 09-07-26. Available limit Rs.145000.00", "timestampMillis": 1752364200000},
+  {"sender": "AD-ICICIB", "body": "Rs.500.00 cashback credited to A/c XX7788 on 10-07-26 for referral bonus. Avl Bal Rs.68190.00", "timestampMillis": 1752450600000},
+  {"sender": "VK-OTPSMS", "body": "Your OTP is 482913. Do not share this with anyone. Valid for 10 minutes.", "timestampMillis": 1752537000000},
+  {"sender": "VM-BIGSALE", "body": "Huge Sale! Flat 70% off on electronics. Click here to shop now. Offer valid till midnight!", "timestampMillis": 1752623400000},
+  {"sender": "AD-HDFCBK", "body": "Fixed Deposit of Rs.100000.00 created in A/c XX4521 on 11-07-26. Interest Rate 7.1%. Maturity Date 11-07-27", "timestampMillis": 1752709800000},
+  {"sender": "VM-MUTHOOT", "body": "Gold Loan A/c XX5567 EMI of Rs.4200.00 debited on 12-07-26. Outstanding Rs.78000.00. Next EMI 12-08-26", "timestampMillis": 1752796200000},
+  {"sender": "AX-KFINTE", "body": "Redemption processed: 50 units of HDFC Mid-Cap Fund redeemed at NAV 88.40. Rs.4420.00 credited to your bank account.", "timestampMillis": 1752882600000}
+]

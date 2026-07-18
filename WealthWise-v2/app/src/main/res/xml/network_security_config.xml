@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This app requests NO internet permission in the manifest at all, which is the primary
+  guarantee that no data can leave the device. This config is a defense-in-depth backstop:
+  if a future dependency ever sneaks in an INTERNET permission, all cleartext traffic is
+  still blocked by default here.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>

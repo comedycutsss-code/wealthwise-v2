@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WealthWise" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!--
+      Lightweight splash theme: a solid ledger-ink background shown instantly while the
+      process cold-starts, before Compose takes over and cross-fades into the real UI.
+      Avoids the default blank-white flash on launch.
+    -->
+    <style name="Theme.WealthWise.Splash" parent="Theme.WealthWise">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
